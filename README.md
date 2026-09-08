@@ -21,4 +21,4 @@ Para manter a organização e facilitar a consulta, o material está dividido no
 3. [Miniguia de Estudo (Entrega Final)](./docs/03-miniguia.md)
 
 ---
-*Este repositório foi criado seguindo boas práticas de documentação para demonstrar maturidade técnica e organização.*
+
